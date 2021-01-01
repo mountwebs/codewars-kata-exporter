@@ -1,3 +1,10 @@
+This is a fork of @lucasbflopes codewars-kata-exporter. It didn't work for me, so I made a few changes:
+- I added ChromeDriverManager (it installs the right chrome driver).
+- I fixed the xpath for the profile link.
+- I removed keys.PAGE_UP (maybe I had to do this because I'm on a mac?)
+
+It works after the changes :)
+
 # Codewars Kata Exporter
 
 ___
